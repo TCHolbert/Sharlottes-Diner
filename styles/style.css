@@ -1,0 +1,31 @@
+/******Sharlotte's Diner*******/
+
+/***** BASE STYLES *****/
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: red;
+    background-color: wheat;
+}
+
+
+/*.order {
+    background-color:palevioletred;
+}*/
+
+.noBullets {
+    list-style-type: none;
+}
+li {
+    font-size: 16px;
+}
+button {
+    color: green;
+    height: 16px;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+#finished {
+    height: 30px;
+    border-radius: 10px;
+}
